@@ -2,6 +2,7 @@
 
 ## 🔗 Live Dashboard
 [View Tableau Dashboard Here]([https://public.tableau.com/your-dashboard-link](https://public.tableau.com/app/profile/utkarsha5131/viz/Marketingdataanalysis_17712110022910/Dashboard1?publish=yes))
+[https://public.tableau.com/app/profile/utkarsha5131/viz/Marketingdataanalysis_17712110022910/Dashboard1?publish=yes]
 
 ---
 
